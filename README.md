@@ -7,6 +7,8 @@
 
 # Shared USB Memory : USB Memory with One-touch Switching Between Two Device Connections
 
+https://github.com/hnz1102/shared-usb-memory/assets/111413646/2c444520-a98f-45e1-a0ac-f0b2667a8621
+
 This memory provides convenient and quick-to-switch connections between two host devices such as PCs.
 
 When the network is not available, data is transferred by copying data to and from a USB memory stick or SD card. However, since removing and inserting USB memory sticks and SD cards is a hassle, the Box can be switched at the touch of a button to pass data back and forth.
