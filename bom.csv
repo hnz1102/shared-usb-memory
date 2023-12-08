@@ -1,0 +1,33 @@
+Reference,Value,Footprint,Datasheet,digikey,storeURL,Qty
+"C206-C209,  C301, C302, C306, C309-C312, C501,  C502,  C505, C601-C603,  C606",0.1uF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,311-1824-1-ND,https://www.digikey.com/en/products/detail/yageo/CC0603MRX7R7BB104/5195231,19
+"C204, C205, C303, C305",1uF,tbctl:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~,13-CC0603KPX7R7BB105CT-ND,https://www.digikey.com/en/products/detail/yageo/CC0603KPX7R7BB105/11491211,4
+"C210, C313",4.7uF,tbctl:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~,311-1455-1-ND,https://www.digikey.com/en/products/detail/yageo/CC0603KRX5R6BB475/2833620,2
+"C308, C506",10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~,311-3494-1-ND,https://www.digikey.com/en/products/detail/yageo/CC0603MRX5R8BB106/7164378,2
+C504,2.2uF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,311-1795-1-ND,https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R5BB225/5195203,1
+"C604, C605",1uF,Capacitor_SMD:C_0805_2012Metric,~,13-CC0603KPX7R7BB105CT-ND,https://www.digikey.com/en/products/detail/yageo/CC0603KPX7R7BB105/11491211,2
+"D203, D301, D302",LED RED,tbctl:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,511-1587-1-ND,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-E12V8WT86/1641806,3
+"D401, D402",CDBU0520-HF,Diode_SMD:D_0603_1608Metric,https://www.comchiptech.com/admin/files/product/QW-G1012-CDBU40-HF-RevA321692.pdf,641-2022-1-ND,https://www.digikey.com/en/products/detail/comchip-technology/CDBU0520-HF/3308520,2
+D501,eMMC PWR LED RED,tbctl:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,511-1587-1-ND,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-E12V8WT86/1641806,1
+D502,SEL_A,tbctl:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,846-1177-1-ND,https://www.digikey.com/en/products/detail/rohm-semiconductor/SMLE13BC8TT86/5053771,1
+D503,SEL_B,tbctl:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,846-1177-1-ND,https://www.digikey.com/en/products/detail/rohm-semiconductor/SMLE13BC8TT86/5053771,1
+"FB301, FB401",BK2125HS601-T,tbctl:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,240-2399-1-ND ,https://www.digikey.com/en/products/detail/laird-signal-integrity-products/HZ0805E601R-10/806759,2
+"J101, J102",USB_C_Receptacle_USB2.0_5077CR,tbctl:USB_C_5077CR-16-SMC2-BK-TR,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,2073-USB4105-GF-ACT-ND,https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441,2
+Q501,2N7002K,Package_TO_SOT_SMD:SOT-23,https://www.diodes.com/assets/Datasheets/ds30896.pdf,2N7002K-7DICT-ND,https://www.digikey.com/en/products/detail/diodes-incorporated/2N7002K-7/1934378,1
+Q502,IRF7606TRPBF,Package_SO:MSOP-8_3x3mm_P0.65mm,http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf,IRF7606TRPBFCT-ND,https://www.digikey.com/en/products/detail/infineon-technologies/IRF7606TRPBF/856652,1
+"R103, R104, R106, R107",5.1K,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,13-RC0603JR-1010KLCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-1010KL/13694233,4
+"R206, R301",12K 1%,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,311-12.0KHRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0712KL/726913,2
+"R207, R208, R302, R303, R308, R502-R504, R601, R602",10K,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,13-RC0603JR-1010KLCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-1010KL/13694233,10
+"R209, R304",330R,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,311-330GRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-07330RL/726769,2
+"R309, R506, R507, R509",1K,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,13-RC0603JR-101KLCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-101KL/13694236,4
+R501,2K,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,311-2.0KGRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-072KL/726726,1
+"R505, R508",330,tbctl:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,13-RC0603JR-101KLCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-101KL/13694236,2
+SW301,RESET SW,tbctl:WS-TASV SMT Tact Switch,,732-435151014824CT-ND,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/435151014824/11627325,1
+SW501,TS-06104,tbctl:TS-06104,,,https://akizukidenshi.com/catalog/g/gP-15969/,1
+"U202, U302",AT24C04-STUM,Package_TO_SOT_SMD:SOT-23-5,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8766-SEEPROM-AT24CS04-08-Datasheet.pdf,AT24C04C-STUM-TCT-ND,https://www.digikey.com/en/products/detail/microchip-technology/AT24C04C-STUM-T/3789511,2
+"U203, U303",USB2244-AEZG-06,tbctl:QFN36_6X6MC_MCH,USB2244-AEZG-06,USB2244-AEZG-06-ND,https://www.digikey.com/en/products/detail/microchip-technology/USB2244-AEZG-06/3873146,2
+U401,LD1117S33TR_SOT223,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf,497-1242-1-ND,https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117S33TR/585766,1
+U502,74LVC2G74,Package_SO:VSSOP-8_2.3x2mm_P0.5mm,,TC7W74FKLFCT-ND,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TC7W74FK-LF/870742,1
+U505,74AHC1G14,Package_TO_SOT_SMD:SOT-23-5_HandSoldering,,74AHC1G14W5-7DICT-ND,https://www.digikey.com/en/products/detail/diodes-incorporated/74AHC1G14W5-7/2639249,1
+U601-U603,TMUX1574PWR,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,,296-53444-1-ND ,https://www.digikey.com/en/products/detail/texas-instruments/TMUX1574PWR/9954224,3
+U604,EM32VSUKN,tbctl:EM32VSUKN FPGA153,,3247-EM32VSUKN-BA000-2-ND,https://www.digikey.com/en/products/detail/delkin-devices-inc/EM32VSUKN-BA000-2/16357650,1
+X101,SG-210STF 24MHz,Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm,https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210STF,SER4078CT-ND,https://www.digikey.com/en/products/detail/epson/SG-210STF-24-0000ML0/4437389,1
