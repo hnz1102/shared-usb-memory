@@ -22,6 +22,10 @@ The box can be run on the Windows OS, MacOS, and Linux OS without special driver
 
 This Board Schematic and a PCB layout are placed in this directory. 
 Schematic data is created by KidCad 7.0.
+The PCB was manufuctured by [PCBWay](https://www.pcbway.com/). I could easily order my custom boards to the PCBWay.
+Click online order [page](https://www.pcbway.com/QuickOrderOnline.aspx), then clink the "Add Gerber File" button, you can upload the [gerber file](https://github.com/hnz1102/shared-usb-memory/raw/main/shareusbdisk2.kicad_pcb.zip).
+
+When ordering the PCB, the parameters can be almost default values, but "Min hole size" should be 0.25mm and "Immersion gold (ENIG)" should be selected for "Surface finish". The reason for this is that the minimum Via Hole is 0.25mm, and if the eMMC pad is not "Immersion gold (ENIG)", the solder on the pad will be slightly raised and cannot be soldered properly without misalignment.
 
 ![PCB](doc/board.jpg)
 
